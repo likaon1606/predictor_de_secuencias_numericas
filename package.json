@@ -1,5 +1,9 @@
 {
   "name": "sequence-predictor",
+  "author": {
+    "name": "Ariel Fuentes García",
+    "url": "https://ariel-fuentes-garcia-programador.com"
+  },
   "private": true,
   "version": "0.0.0",
   "type": "module",
