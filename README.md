@@ -103,7 +103,7 @@ npm install
 # Ejecuta la aplicación
 npm run dev
 ```
-
+---
 # Si te gusta mi trabajo, no olvides seguirme en linkedin y dejarme tu like.
 
 
