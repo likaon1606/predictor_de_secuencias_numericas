@@ -1,6 +1,6 @@
 # 🔢 Secuencias Numéricas - Detector y Predictor
 
-Esta aplicación permite detectar distintos tipos de secuencias numéricas y predecir sus próximos términos. Soporta secuencias con números enteros, decimales y fracciones, y muestra los resultados en formatos adecuados para cada tipo.
+Esta aplicación permite detectar distintos tipos de secuencias numéricas y predecir sus próximos términos. Soporta secuencias con números enteros, decimales, suceción fibonacci y fracciones, y muestra los resultados en formatos adecuados para cada tipo.
 
 ---
 
@@ -57,7 +57,7 @@ Esta aplicación permite detectar distintos tipos de secuencias numéricas y pre
 ## 🛠️ Cómo Usar la Aplicación
 
 1. **📝 Ingresar la Secuencia**  
-   Introduce la secuencia numérica que deseas analizar. Puede contener números enteros, decimales o fracciones (por ejemplo, `3/4`).
+   Introduce la secuencia numérica que deseas analizar. Puede contener números enteros, decimales o fracciones (por ejemplo, `2, 2.5, 3/4`).
 
 2. **⚙️ Ejecutar el Análisis**  
    La aplicación detectará el tipo de secuencia más probable y calculará los próximos términos.
@@ -92,20 +92,24 @@ Esta aplicación permite detectar distintos tipos de secuencias numéricas y pre
 
 ```bash
 # Clona el repositorio
-git clone https://github.com/likaon1606/secuencias-numéricas.git
+git clone https://github.com/likaon1606/predictor_de_secuencias_numericas
 
 # Entra al directorio del proyecto
-cd secuencias-numéricas
+cd "nombre de tu proyecto o puedes conservar el mismo"
 
-# Instala dependencias (si las hay)
+# Instala dependencias (si no las tienes instaladas)
 npm install
 
 # Ejecuta la aplicación
-npm start
+npm run dev
+```
+
+# Si te gusta mi trabajo, no olvides seguirme en linkedin y dejarme tu like.
 
 
 ## 📬 Contacto
 
+- **Linkedin:** [https://www.linkedin.com/in/ariel-f-78604898/](https://www.linkedin.com/in/ariel-f-78604898/)  
 - **GitHub:** [https://github.com/likaon1606](https://github.com/likaon1606)  
 - **Portafolio:** [https://ariel-fuentes-garcia-programador.com](https://ariel-fuentes-garcia-programador.com)  
 - **Celular:** +52 5532604568  
